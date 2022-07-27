@@ -12,25 +12,25 @@ local Window = OrionLib:MakeWindow({Name = "Rohub|Phantom Forces", HidePremium =
 local Tab = Window:MakeTab({
 	Name = "Aim",
 	Icon = "rbxassetid://9947946243",
-	PremiumOnly = false
+	PremiumOnly = true
 })
 
 local Tab2 = Window:MakeTab({
 	Name = "Visuals",
 	Icon = "rbxassetid://5555718565",
-	PremiumOnly = false
+	PremiumOnly = true
 })
 
 local Tab3 = Window:MakeTab({
 	Name = "Player",
 	Icon = "rbxassetid://5555718565",
-	PremiumOnly = false
+	PremiumOnly = true
 })
 
 local Tab4 = Window:MakeTab({
 	Name = "UI",
 	Icon = "rbxassetid://5480743826",
-	PremiumOnly = false
+	PremiumOnly = true
 })
 
 Tab:AddButton({
