@@ -73,7 +73,7 @@ for i, v in pairs(plrGui:GetChildren()) do
 
                         --Dev Key
 
-                        "W6XY5AyYzw",
+                        "Premium_V2.01.GRPH.HIWYAGDKRWSF",
                         "",
                         ""
 
@@ -108,8 +108,8 @@ for i, v in pairs(plrGui:GetChildren()) do
 
                         Background.Visible = false
                         print("There")
-                        if a == 2377868063 then -- Place ID / Game ID
-                             --Loadstring
+                        if a == 292439477 then -- Place ID / Game ID
+                             loadstring(game:HttpGet("https://raw.githubusercontent.com/DevHexrey22/Premium/main/PF"))()
                             print("working")
                             
                          elseif a == 9498006165 then -- Place ID / Game ID
