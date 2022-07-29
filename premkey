@@ -112,8 +112,8 @@ for i, v in pairs(plrGui:GetChildren()) do
                              loadstring(game:HttpGet("https://raw.githubusercontent.com/DevHexrey22/premgames/main/pf"))()
                             print("working")
                             
-                         elseif a == 9498006165 then -- Place ID / Game ID
-                            --Loadstring
+                         elseif a == 10243982775 then -- Place ID / Game ID
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/DevHexrey22/premgames/main/Redbox2"))()
                             print("working")
 
                         elseif a == 2788229376 then -- dahood
